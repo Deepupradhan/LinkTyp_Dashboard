@@ -1,0 +1,42 @@
+ {/* <div className="flex justify-around ">
+            <div className="avatar online">
+              <div className="w-28 rounded-full">
+                <img
+                  src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+                  className=""
+                />
+              </div>
+            </div>
+            <div className="flex flex-col w-3/5 justify-center">
+              <button className='btn'>
+                Upload file
+                <input type='file' className='upload_button' />
+              </button>
+              <button className="btn btn-outline border-sky-300 rounded-full">
+                Remove
+              </button>
+            </div>
+          </div> */}
+          {/* <div className="flex flex-col justify-center items-center md:px-10">
+            <input
+              type="text"
+              placeholder="Profile Title"
+              className="input input-bordered border-sky-300  w-full mb-5 mt-5"
+            />
+            <textarea
+              className="textarea textarea-info w-full textarea-lg"
+              placeholder="Bio"
+            ></textarea>
+          </div> */}
+
+
+
+           {/* <div className="w-50 pb-10">
+          <PieChart
+            data={[
+              { title: "Website Views", value: websiteViewCount, color: "#570DF8" },
+              { title: "Product Clicks", value: productClickCount, color: "#F000B8" },
+              { title: "Link Clicks", value: linkClickCount, color: "#9B8187" },
+            ]}
+          />
+        </div> */}
