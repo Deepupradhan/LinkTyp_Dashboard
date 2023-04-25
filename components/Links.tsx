@@ -188,7 +188,7 @@ if (userData === undefined) {
 }
   
   return (
-    <div className="h-full w-full border-r-2 border-gray-100 cursor-pointer">
+    <div className="h-full w-full md:border-r-2 border-gray-100 cursor-pointer">
       <div className="p-5 flex justify-center">
         <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box w-full">
           {/* Analytics Start */}
